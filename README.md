@@ -48,4 +48,3 @@ Welcome to the Simple Shopping Website project repository! This project aims to 
 
 This project provides you with a practical opportunity to develop a web application using various technologies and deploy it on a cloud platform. By following the guidelines and utilizing the specified technologies, you will gain valuable experience in building network applications based on the client/server architecture.
 
-Thank you for your interest in the Simple Shopping Website project. For any inquiries or assistance, please reach out to the project maintainers. Happy coding! 🛒💻
